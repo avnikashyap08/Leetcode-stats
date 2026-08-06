@@ -14,11 +14,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
