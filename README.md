@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
