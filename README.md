@@ -39,6 +39,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +64,17 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0242-valid-anagram) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
