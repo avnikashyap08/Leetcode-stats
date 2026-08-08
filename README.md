@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0242-valid-anagram) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -72,9 +74,14 @@
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
