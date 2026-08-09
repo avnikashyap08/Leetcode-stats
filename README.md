@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/1140-stone-game-ii) |
 | [3731-find-missing-elements](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -38,25 +39,30 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/1140-stone-game-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -84,4 +90,8 @@
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avnikashyap08/Leetcode-stats/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
