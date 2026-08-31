@@ -210,4 +210,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avnikashyap08/Leetcode-stats/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/avnikashyap08/Leetcode-stats/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
