@@ -87,6 +87,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/avnikashyap08/Leetcode-stats/tree/master/1140-stone-game-ii) |
@@ -132,6 +133,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/avnikashyap08/Leetcode-stats/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/avnikashyap08/Leetcode-stats/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/avnikashyap08/Leetcode-stats/tree/master/2213-longest-substring-of-one-repeating-character) |
